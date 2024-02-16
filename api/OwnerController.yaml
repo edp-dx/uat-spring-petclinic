@@ -1,0 +1,6 @@
+openapi: 3.0.1
+info:
+  title: Owner API
+  version: '1.0'
+paths:
+  ...definitions of OwnerController endpoints...
