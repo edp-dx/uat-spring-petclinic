@@ -1,1 +1,0 @@
-1. Application spring-petclinic has been successfully deployed!!
